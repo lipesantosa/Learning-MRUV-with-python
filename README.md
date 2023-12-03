@@ -1,5 +1,5 @@
 # Learning-MRUV-with-python
-This program has the objective teaching Uniformly Varied Rectilinear Motion(MRUV) utilizing the Python language.
+This program has the objective teaching Uniformly Varied Rectilinear Motion(MRUV) utilizing the Python language.+
 
 REQUISITOS
 Bibliotecas:
@@ -11,3 +11,5 @@ INSTRUÇÕES
 Execute o programa em um compildor de Python (Pode ser a própria IDLE)
 Insira os valores a serem trabalhados
 Pronto
+
+Developed by Felipe S. Araujo
